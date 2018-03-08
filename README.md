@@ -7,7 +7,7 @@ The script provides analysis of non-circle DNA sequences showing basic informati
 
 ## Before you start
 
-Make sure that you have installed Python 3.6 or upper https://www.python.org/
+Make sure that you have installed Python 3.6 or upper https://www.python.org/ and matplotlib https://matplotlib.org/2.2.0/users/installing.html
 
 ## Getting started
 
