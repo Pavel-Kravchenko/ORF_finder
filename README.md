@@ -15,7 +15,7 @@ First of all you have to ```clone``` this directory</br></br>
 ```git clone https://github.com/Pavel-Kravchenko/ORF_finder/```</br></br>
 Then ```cd``` in ORF_finder </br></br>
 ```cd ORF_finder```</br></br>
-And ```tar``` Species_files.tar.gz</br></br>
+And ```tar``` ORF_finder.tar.gz</br></br>
 ```tar -xvf ORF_finder.tar.gz```</br></br>
 Now you can use it with single sequence in any fasta file.</br></br>
 ```python ORF_finder.py```</br></br>
