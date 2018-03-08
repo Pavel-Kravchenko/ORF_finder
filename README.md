@@ -12,14 +12,16 @@ Make sure that you have installed Python 3.6 or upper https://www.python.org/
 ## Getting started
 
 First of all you have to ```clone``` this directory</br></br>
-```git clone https://github.com/Pavel-Kravchenko/Evolution-of-mitochondrial-DNA-inheritance-patterns/```</br></br>
-Then ```cd``` in Evolution-of-mitochondrial-DNA-inheritance-patterns</br></br>
-```cd Evolution-of-mitochondrial-DNA-inheritance-patterns```</br></br>
+```git clone https://github.com/Pavel-Kravchenko/ORF_finder/```</br></br>
+Then ```cd``` in ```ORF_finder``` </br></br>
+```cd ORF_finder```</br></br>
 And ```tar``` Species_files.tar.gz</br></br>
-```tar -xvf Species_files.tar.gz```</br></br>
-  
+```tar -xvf ORF_finder.tar.gz```</br></br>
+Now you can use it with single sequence in any fasta file.</br></br>
+```python ORF_finder.py```</br></br>
+
 ## Bonus
-You may want to use it with several sequences. Read commented space and rewrite adding a simple cycle.
+You may want to use it with several sequences. Read commented space in program file and rewrite adding a simple cycle.
 
 ## Contact me
 
