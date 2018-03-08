@@ -12,6 +12,7 @@ Make sure that you have installed:
 <li>Python 3.6 or upper https://www.python.org/
 <li>Matplotlib https://matplotlib.org/2.2.0/users/installing.html
 </ul>
+
 ## Getting started
 
 First of all you have to ```clone``` this directory</br></br>
