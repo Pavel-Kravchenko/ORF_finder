@@ -21,7 +21,7 @@ Then ```cd``` in ORF_finder </br></br>
 ```cd ORF_finder```</br></br>
 And ```tar``` ORF_finder.tar.gz</br></br>
 ```tar -xvf ORF_finder.tar.gz```</br></br>
-Now you can use it with single sequence in any fasta file.</br></br>
+Now you can use it with single sequence in any fasta file</br></br>
 ```python ORF_finder.py```</br></br>
 or work in jupyter notebook ```ORF_finder.ipynb```</br></br>
 
