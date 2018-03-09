@@ -23,6 +23,7 @@ And ```tar``` ORF_finder.tar.gz</br></br>
 ```tar -xvf ORF_finder.tar.gz```</br></br>
 Now you can use it with single sequence in any fasta file.</br></br>
 ```python ORF_finder.py```</br></br>
+or work in jupyter notebook ```ORF_finder.ipynb```</br></br>
 
 ## Bonus
 You may want to use it with several sequences. Read commented space in program file and rewrite adding a simple cycle.
