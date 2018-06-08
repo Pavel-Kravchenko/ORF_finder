@@ -3,7 +3,7 @@ A simple script to find ORFs in non-circle DNA sequence
 
 This script is the part of bioengineering and bioinformatics faculty python programming cource.
 
-The script provides analysis of non-circle DNA sequences showing basic information about nucleotide and amino acid pattern.
+The script provides analysis of non-circle DNA sequences showing basic information about nucleotide and amino acid patterns.
 
 ## Before you start
 
