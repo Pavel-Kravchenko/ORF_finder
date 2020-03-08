@@ -1,4 +1,7 @@
-# ORF_finder
+# ORF_finder 2.0
+"Genome_annotation" - the latest (2020) update for a genome annotation task. + "Drawing a genome GC landscape" script.
+
+# ORF_finder 1.0
 A simple script to find ORFs in non-circle DNA sequence
 
 This script is the part of bioengineering and bioinformatics faculty python programming cource.
